@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FidarNizar
+- 👋 Hi, I’m FidarNizar
 - I'm an Electronics and Communication Engineering student from govt,college of engineering kannur Kerala, India.
 🌱 Currently learning:
 - C Programming
